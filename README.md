@@ -64,7 +64,7 @@ PLEASE, let me know what you think:
 
 ### You can either:
 * Post a note with the #nnterra tag
-* Send me a message on Nostr
+* Send me a message on Nostr npub184jvqdrlyu34y28yd5p9a786jwnjrsrd9tr9nl24n52lzwmk4deqkkzed7
 * Open a GitHub issue
 
 
