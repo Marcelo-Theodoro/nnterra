@@ -3,6 +3,32 @@ Nostr means “Notes and Other Stuff Transmitted by Relays”. This project is a
 
 Take a look: https://nnterra.web.app/?event=note1zud03a8kh32xuxklv6jg7l0zml75k5fmx47d4lqygqg4wgc6d5wqznwr2h&relay=wss://nos.lol
 
+
+----------------------------------
+Project status: Halted.
+
+The project was able to render simple web applications and had good feedback.
+
+Learnings:
+-  hiccup is not popular. If we use a more popular format, we can leverage external tools.
+-  Support of multiple relays is a must-have.
+
+Challenges:
+- How to handle web applications that need multiple files instead of inline js and css?
+- How to update an application?
+
+Open questions:
+- Could we leverage a browser to render the content, just adding the capability of fetching data from Nostr?
+- What should be the format?
+
+Next steps:
+I'm available to help anyone interested in moving forward with this project.  Given no one is interested, I'll be back to this project after finishing the other project I'm working.
+
+If can read some of the suggestions in https://github.com/nostr-protocol/nips/issues/298#issuecomment-1464814141.
+
+
+----------------------------------
+
 ## What
 `nnterra` is an experiment about another kind of client for Nostr. Instead of a client handling notes, followers, and likes, it can render web apps.
 You can think of it as a web browser that instead of requesting the source code of a page to a centralized server, it’ll make the request to an `N` number of relays.
