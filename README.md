@@ -24,7 +24,7 @@ Open questions:
 Next steps:
 I'm available to help anyone interested in moving forward with this project.  Given no one is interested, I'll be back to this project after finishing the other project I'm working.
 
-If can read some of the suggestions in https://github.com/nostr-protocol/nips/issues/298#issuecomment-1464814141.
+You can read some of the suggestions in https://github.com/nostr-protocol/nips/issues/298#issuecomment-1464814141.
 
 
 ----------------------------------
